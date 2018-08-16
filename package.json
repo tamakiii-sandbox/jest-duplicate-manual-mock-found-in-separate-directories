@@ -1,0 +1,9 @@
+{
+  "name": "jest-duplicate-manual-mock-found-in-separate-directories",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tamakiii-sandbox/jest-duplicate-manual-mock-found-in-separate-directories.git",
+  "author": "tamakiii",
+  "license": "MIT",
+  "private": true
+}
