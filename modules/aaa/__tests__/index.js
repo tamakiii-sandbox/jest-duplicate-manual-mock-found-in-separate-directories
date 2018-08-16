@@ -1,6 +1,6 @@
 'use strict';
 
-// jest.mock('../config');
+jest.mock('../config');
 
 import a from "../src/index";
 
