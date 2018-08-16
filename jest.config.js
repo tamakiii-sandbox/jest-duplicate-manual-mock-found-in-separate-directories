@@ -3,9 +3,6 @@ module.exports = {
   'moduleFileExtensions': [
     'js',
   ],
-  'transform': {
-    '\\.jsx?$': 'babel-jest',
-  },
   'modulePaths': [
     './src'
   ],
