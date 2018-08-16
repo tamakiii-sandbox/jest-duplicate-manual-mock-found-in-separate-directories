@@ -1,5 +1,5 @@
 'use strict';
 
-export default {
+export const config = {
   'name': 'B'
 };
